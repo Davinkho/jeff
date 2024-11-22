@@ -1,4 +1,5 @@
 {
+  "mainpage": {
   "popup": [
     { "img": "https://www.bangjeff.com/_next/image?url=https%3A%2F%2Fcdn.bangjeff.com%2Fpopup%2F7b4366ab-3449-4ea4-a806-9ac0d8e204d7.jpeg&w=1200&q=75", "title": "WhatsApp Channel Official" }
   
@@ -14,4 +15,5 @@
 
  } 
   ]
+}
 }
